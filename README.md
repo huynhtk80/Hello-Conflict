@@ -1,3 +1,4 @@
 # Hello-Conflict
-This is fun!!
+
+This is not fun!
 Hello-World
